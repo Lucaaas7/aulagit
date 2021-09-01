@@ -1,0 +1,17 @@
+package exercicios;
+
+public class Exercicio06 {
+    public static void main(String[] args) {
+        double nota = 2;
+
+        if(nota >= 7.0){
+            System.out.println("Aprovado");
+        }
+        else if(nota <= 7.0){
+            System.out.println("Exame");
+        }
+        else{
+            System.out.println("Reprovado");
+        }
+    }
+}
