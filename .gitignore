@@ -9,3 +9,6 @@ lib01.lib
 
 # 3 - ignorar a pasta inteira
 biblioteca/
+
+# 4 - ignorar a pasta inteira
+Lista/
